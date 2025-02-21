@@ -1,0 +1,100 @@
+Name,Short description,Description,Regular price,Category
+Espresso,Delicious Espresso,"A popular choice, perfect for a quick pick-me-up with a rich flavor of espresso",3.0,Espresso based
+Doppio,Delicious Doppio,"A popular choice, perfect for a quick pick-me-up with a rich flavor of doppio",3.5,Espresso based
+Cortado,Delicious Cortado,"A popular choice, perfect for a quick pick-me-up with a rich flavor of cortado",3.5,Espresso based
+Espresso Macchiato,Tasty Espresso,"A popular choice, perfect for a quick pick-me-up with a rich flavor of espresso macchiato",3.5,Espresso based
+Americano - small,Delicious Americano,"A popular choice, perfect for a quick pick-me-up with a rich flavor of americano",3.0,Espresso based
+Americano - big,Delicious Americano,"A popular choice, perfect for a quick pick-me-up with a rich flavor of americano",3.5,Espresso based
+Americano - small,Delicious Americano,"A popular choice, perfect for a quick pick-me-up with a rich flavor of americano",3.0,Espresso based
+Americano - big,Delicious Americano,"A popular choice, perfect for a quick pick-me-up with a rich flavor of americano",3.5,Espresso based
+Cappuccino - small,Delicious Cappuccino,"A popular choice, perfect for a quick pick-me-up with a rich flavor of cappuccino",4.0,Espresso based
+Cappuccino - big,Delicious Cappuccino,"A popular choice, perfect for a quick pick-me-up with a rich flavor of cappuccino",5.0,Espresso based
+Cappuccino - small,Delicious Cappuccino,"A popular choice, perfect for a quick pick-me-up with a rich flavor of cappuccino",4.0,Espresso based
+Cappuccino - big,Delicious Cappuccino,"A popular choice, perfect for a quick pick-me-up with a rich flavor of cappuccino",5.0,Espresso based
+Flat White,Tasty Flat,"A popular choice, perfect for a quick pick-me-up with a rich flavor of flat white",4.5,Espresso based
+Latte - small,Delicious Latte,"A popular choice, perfect for a quick pick-me-up with a rich flavor of latte",4.5,Espresso based
+Latte - big,Delicious Latte,"A popular choice, perfect for a quick pick-me-up with a rich flavor of latte",5.0,Espresso based
+Latte - small,Delicious Latte,"A popular choice, perfect for a quick pick-me-up with a rich flavor of latte",4.5,Espresso based
+Latte - big,Delicious Latte,"A popular choice, perfect for a quick pick-me-up with a rich flavor of latte",5.0,Espresso based
+Mochacino,Delicious Mochacino,"A popular choice, perfect for a quick pick-me-up with a rich flavor of mochacino",4.5,Café barista
+Gold Cappuccino - small,Tasty Gold,"A popular choice, perfect for a quick pick-me-up with a rich flavor of gold cappuccino",4.5,Café barista
+Gold Cappuccino - big,Tasty Gold,"A popular choice, perfect for a quick pick-me-up with a rich flavor of gold cappuccino",5.5,Café barista
+Gold Cappuccino - small,Tasty Gold,"A popular choice, perfect for a quick pick-me-up with a rich flavor of gold cappuccino",4.5,Café barista
+Gold Cappuccino - big,Tasty Gold,"A popular choice, perfect for a quick pick-me-up with a rich flavor of gold cappuccino",5.5,Café barista
+Café Shakerato,Tasty Café,"A popular choice, perfect for a quick pick-me-up with a rich flavor of café shakerato",6.0,Café barista
+Affogato,Delicious Affogato,"A popular choice, perfect for a quick pick-me-up with a rich flavor of affogato",6.0,Café barista
+Caramel latte,Tasty Caramel,"A popular choice, perfect for a quick pick-me-up with a rich flavor of caramel latte",6.0,Café barista
+Café Viennois,Tasty Café,"A popular choice, perfect for a quick pick-me-up with a rich flavor of café viennois",4.5,Café barista
+Royal 24 Carat gold cappuccino - small,Tasty Royal,"A popular choice, perfect for a quick pick-me-up with a rich flavor of royal 24 carat gold cappuccino",5.5,The kingdom of Aksum
+Royal 24 Carat gold cappuccino - big,Tasty Royal,"A popular choice, perfect for a quick pick-me-up with a rich flavor of royal 24 carat gold cappuccino",6.5,The kingdom of Aksum
+Royal 24 Carat gold cappuccino - small,Tasty Royal,"A popular choice, perfect for a quick pick-me-up with a rich flavor of royal 24 carat gold cappuccino",5.5,The kingdom of Aksum
+Royal 24 Carat gold cappuccino - big,Tasty Royal,"A popular choice, perfect for a quick pick-me-up with a rich flavor of royal 24 carat gold cappuccino",6.5,The kingdom of Aksum
+Aksum coffee,Tasty Aksum,"A popular choice, perfect for a quick pick-me-up with a rich flavor of aksum coffee",6.5,The kingdom of Aksum
+Marrakech,Delicious Marrakech,"A popular choice, perfect for a quick pick-me-up with a rich flavor of marrakech",5.0,Teas
+Moroccan tea,Tasty Moroccan,"A popular choice, perfect for a quick pick-me-up with a rich flavor of moroccan tea",5.0,Teas
+Saffron tea,Tasty Saffron,"A popular choice, perfect for a quick pick-me-up with a rich flavor of saffron tea",5.0,Teas
+Vanihines,Delicious Vanihines,"A popular choice, perfect for a quick pick-me-up with a rich flavor of vanihines",4.5,Teas
+Genmaicha,Delicious Genmaicha,"A popular choice, perfect for a quick pick-me-up with a rich flavor of genmaicha",4.5,Teas
+Spicy winter tea,Tasty Spicy,"A popular choice, perfect for a quick pick-me-up with a rich flavor of spicy winter tea",6.0,Teas
+Rose tea,Tasty Rose,"A popular choice, perfect for a quick pick-me-up with a rich flavor of rose tea",6.0,Teas
+Ginger tea,Tasty Ginger,"A popular choice, perfect for a quick pick-me-up with a rich flavor of ginger tea",6.0,Teas
+Keynia black tea,Tasty Keynia,"A popular choice, perfect for a quick pick-me-up with a rich flavor of keynia black tea",4.5,Teas
+Infusions: Hibiscus,Tasty Infusions:,"A popular choice, perfect for a quick pick-me-up with a rich flavor of infusions: hibiscus",5.0,Teas
+Verbena,Delicious Verbena,"A popular choice, perfect for a quick pick-me-up with a rich flavor of verbena",5.0,Teas
+Hot Chocolate - small,Tasty Hot,"A popular choice, perfect for a quick pick-me-up with a rich flavor of hot chocolate",4.0,Other Drinks
+Hot Chocolate - big,Tasty Hot,"A popular choice, perfect for a quick pick-me-up with a rich flavor of hot chocolate",5.0,Other Drinks
+Hot Chocolate - small,Tasty Hot,"A popular choice, perfect for a quick pick-me-up with a rich flavor of hot chocolate",4.0,Other Drinks
+Hot Chocolate - big,Tasty Hot,"A popular choice, perfect for a quick pick-me-up with a rich flavor of hot chocolate",5.0,Other Drinks
+Chili Chocolate - small,Tasty Chili,"A popular choice, perfect for a quick pick-me-up with a rich flavor of chili chocolate",4.0,Other Drinks
+Chili Chocolate - big,Tasty Chili,"A popular choice, perfect for a quick pick-me-up with a rich flavor of chili chocolate",5.0,Other Drinks
+Chili Chocolate - small,Tasty Chili,"A popular choice, perfect for a quick pick-me-up with a rich flavor of chili chocolate",4.0,Other Drinks
+Chili Chocolate - big,Tasty Chili,"A popular choice, perfect for a quick pick-me-up with a rich flavor of chili chocolate",5.0,Other Drinks
+Chai small - small,Tasty Chai,"A popular choice, perfect for a quick pick-me-up with a rich flavor of chai small",4.0,Other Drinks
+Chai small - big,Tasty Chai,"A popular choice, perfect for a quick pick-me-up with a rich flavor of chai small",5.0,Other Drinks
+Chai small - small,Tasty Chai,"A popular choice, perfect for a quick pick-me-up with a rich flavor of chai small",4.0,Other Drinks
+Chai small - big,Tasty Chai,"A popular choice, perfect for a quick pick-me-up with a rich flavor of chai small",5.0,Other Drinks
+Pumpkin Spice - small,Tasty Pumpkin,"A popular choice, perfect for a quick pick-me-up with a rich flavor of pumpkin spice",4.0,Other Drinks
+Pumpkin Spice - big,Tasty Pumpkin,"A popular choice, perfect for a quick pick-me-up with a rich flavor of pumpkin spice",5.0,Other Drinks
+Pumpkin Spice - small,Tasty Pumpkin,"A popular choice, perfect for a quick pick-me-up with a rich flavor of pumpkin spice",4.0,Other Drinks
+Pumpkin Spice - big,Tasty Pumpkin,"A popular choice, perfect for a quick pick-me-up with a rich flavor of pumpkin spice",5.0,Other Drinks
+Ginger bread latte,Tasty Ginger,"A popular choice, perfect for a quick pick-me-up with a rich flavor of ginger bread latte",5.0,Other Drinks
+Pink Chai - small,Tasty Pink,"A popular choice, perfect for a quick pick-me-up with a rich flavor of pink chai",4.0,Other Drinks
+Pink Chai - big,Tasty Pink,"A popular choice, perfect for a quick pick-me-up with a rich flavor of pink chai",5.0,Other Drinks
+Pink Chai - small,Tasty Pink,"A popular choice, perfect for a quick pick-me-up with a rich flavor of pink chai",4.0,Other Drinks
+Pink Chai - big,Tasty Pink,"A popular choice, perfect for a quick pick-me-up with a rich flavor of pink chai",5.0,Other Drinks
+Matcha blend - small,Tasty Matcha,"A popular choice, perfect for a quick pick-me-up with a rich flavor of matcha blend",4.0,Other Drinks
+Matcha blend - big,Tasty Matcha,"A popular choice, perfect for a quick pick-me-up with a rich flavor of matcha blend",5.0,Other Drinks
+Matcha blend - small,Tasty Matcha,"A popular choice, perfect for a quick pick-me-up with a rich flavor of matcha blend",4.0,Other Drinks
+Matcha blend - big,Tasty Matcha,"A popular choice, perfect for a quick pick-me-up with a rich flavor of matcha blend",5.0,Other Drinks
+Matcha pure - small,Tasty Matcha,"A popular choice, perfect for a quick pick-me-up with a rich flavor of matcha pure",4.0,Other Drinks
+Matcha pure - big,Tasty Matcha,"A popular choice, perfect for a quick pick-me-up with a rich flavor of matcha pure",5.0,Other Drinks
+Matcha pure - small,Tasty Matcha,"A popular choice, perfect for a quick pick-me-up with a rich flavor of matcha pure",4.0,Other Drinks
+Matcha pure - big,Tasty Matcha,"A popular choice, perfect for a quick pick-me-up with a rich flavor of matcha pure",5.0,Other Drinks
+Pure orange,Tasty Pure,"A popular choice, perfect for a quick pick-me-up with a rich flavor of pure orange",5.0,Juices
+"Orange, banana","Tasty Orange,","A popular choice, perfect for a quick pick-me-up with a rich flavor of orange, banana",6.5,Juices
+Apple juice,Tasty Apple,"A popular choice, perfect for a quick pick-me-up with a rich flavor of apple juice",4.5,Juices
+Ginger lemon,Tasty Ginger,"A popular choice, perfect for a quick pick-me-up with a rich flavor of ginger lemon",6.0,Juices
+Sunny Mint,Tasty Sunny,"A popular choice, perfect for a quick pick-me-up with a rich flavor of sunny mint",6.0,Juices
+Immunity,Delicious Immunity,"A popular choice, perfect for a quick pick-me-up with a rich flavor of immunity",6.5,Juices
+Hot ginger lemon,Tasty Hot,"A popular choice, perfect for a quick pick-me-up with a rich flavor of hot ginger lemon",6.5,Juices
+Hot apple juice with cinnamon,Tasty Hot,"A popular choice, perfect for a quick pick-me-up with a rich flavor of hot apple juice with cinnamon",5.0,Juices
+Ginger shot,Tasty Ginger,"A popular choice, perfect for a quick pick-me-up with a rich flavor of ginger shot",3.5,Juices
+Granola,Delicious Granola,"A popular choice, perfect for a quick pick-me-up with a rich flavor of granola",8.0,Food menu
+Aksum Granola,Tasty Aksum,"A popular choice, perfect for a quick pick-me-up with a rich flavor of aksum granola",8.5,Food menu
+Savoury Aksum Breakfast,Tasty Savoury,"A popular choice, perfect for a quick pick-me-up with a rich flavor of savoury aksum breakfast",9.5,Food menu
+Pastilla,Delicious Pastilla,"A popular choice, perfect for a quick pick-me-up with a rich flavor of pastilla",12.5,Food menu
+Scrambled Eggs with truffle oil,Tasty Scrambled,"A popular choice, perfect for a quick pick-me-up with a rich flavor of scrambled eggs with truffle oil",11.5,Food menu
+Quiches,Delicious Quiches,"A popular choice, perfect for a quick pick-me-up with a rich flavor of quiches",12.5,Food menu
+"Savory Waffles (Feta, feta cheese and cherry tomatoes)",Tasty Savory,"A popular choice, perfect for a quick pick-me-up with a rich flavor of savory waffles (feta, feta cheese and cherry tomatoes)",10.5,Food menu
+"Savory Waffles (Truffle, cheese, cherry tomatoes, truffles sauce and honey)",Tasty Savory,"A popular choice, perfect for a quick pick-me-up with a rich flavor of savory waffles (truffle, cheese, cherry tomatoes, truffles sauce and honey)",12.5,Food menu
+Pastries,Delicious Pastries,"A popular choice, perfect for a quick pick-me-up with a rich flavor of pastries",3.0,Aksum Sweet Counter
+Oriental Pastries,Tasty Oriental,"A popular choice, perfect for a quick pick-me-up with a rich flavor of oriental pastries",3.5,Aksum Sweet Counter
+The Brussels Waffle,Tasty The,"A popular choice, perfect for a quick pick-me-up with a rich flavor of the brussels waffle",6.5,Aksum Sweet Counter
+The Liège Waffle,Tasty The,"A popular choice, perfect for a quick pick-me-up with a rich flavor of the liège waffle",6.5,Aksum Sweet Counter
+Vegan Waffle,Tasty Vegan,"A popular choice, perfect for a quick pick-me-up with a rich flavor of vegan waffle",7.0,Aksum Sweet Counter
+Add a topping: Syrup,Tasty Add,"A popular choice, perfect for a quick pick-me-up with a rich flavor of add a topping: syrup",2.0,Aksum Sweet Counter
+Vanilla ice cream,Tasty Vanilla,"A popular choice, perfect for a quick pick-me-up with a rich flavor of vanilla ice cream",2.5,Aksum Sweet Counter
+Whipped cream,Tasty Whipped,"A popular choice, perfect for a quick pick-me-up with a rich flavor of whipped cream",1.0,Aksum Sweet Counter
+Vegan whipped cream,Tasty Vegan,"A popular choice, perfect for a quick pick-me-up with a rich flavor of vegan whipped cream",2.0,Aksum Sweet Counter
+Red fruit coulis,Tasty Red,"A popular choice, perfect for a quick pick-me-up with a rich flavor of red fruit coulis",2.0,Aksum Sweet Counter
+Banana,Delicious Banana,"A popular choice, perfect for a quick pick-me-up with a rich flavor of banana",2.0,Aksum Sweet Counter

@@ -40,13 +40,26 @@ _logger.info(" >>>>> STARTING CSV CONVERTER APP <<<<<")
 
 
 def convert_sk_to_wp(sk_csv: pd.DataFrame, wp_csv: pd.DataFrame) -> pd.DataFrame:
-    """Converts SK CSV to WP CSV format, filling missing values from WP CSV."""
+    """Converts SK CSV to WP CSV format, filling missing values from WP CSV and auto-incrementing IDs."""
     _logger.info(" conversion started: convert_sk_to_wp")
+
+    # Auto-increment IDs starting from the initial value
+    initial_id = 20000
+    sk_csv['ID'] = range(initial_id, initial_id + len(sk_csv))
+
+    _logger.info(f" Assigned IDs: {sk_csv['ID'].tolist()}")  # This logs the id column to check the values
+
     wp_defaults = wp_csv.iloc[0]  # Assume first row contains example values
     for col in wp_csv.columns:
         if col not in sk_csv.columns:
             sk_csv[col] = wp_defaults[col]
-    return sk_csv[wp_csv.columns]
+
+    # Reorder the columns to match the wp_csv structure and ensure 'ID' is replaced as the first column
+    wp_columns = ['ID'] + [col for col in wp_csv.columns if col != 'ID']
+    return sk_csv[wp_columns]
+
+
+
 
 
 def convert_wp_to_sk(wp_csv: pd.DataFrame, sk_csv: pd.DataFrame) -> pd.DataFrame:
@@ -135,7 +148,7 @@ if __name__ == "__main__":
     """
 
     test_cmd = False  # False means test via IDE, True means command line with args
-    direction = WP_TO_SK
+    direction = SK_TO_WP
     input_file = SK_REFERENCE_FILE if direction == SK_TO_WP else WP_REFERENCE_FILE
     current_date = datetime.now().isoformat(timespec='seconds')
     output_file = os.path.join(BASE_DIR, "..", "outputs", f"output_{direction}_{current_date}.csv")
