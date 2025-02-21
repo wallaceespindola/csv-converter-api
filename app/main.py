@@ -150,7 +150,7 @@ if __name__ == "__main__":
     test_cmd = False  # False means test via IDE, True means command line with args
     direction = SK_TO_WP
     input_file = SK_REFERENCE_FILE if direction == SK_TO_WP else WP_REFERENCE_FILE
-    current_date = datetime.now().isoformat(timespec='seconds')
+    current_date = datetime.now().isoformat(timespec='seconds').replace(":", ".") # Windows compatible name
     output_file = os.path.join(BASE_DIR, "..", "outputs", f"output_{direction}_{current_date}.csv")
 
     if test_cmd:
@@ -172,4 +172,4 @@ if __name__ == "__main__":
         converted_df = convert_wp_to_sk(input_df, reference_df)
 
     converted_df.to_csv(output_file, index=False)
-    print(f"Converted file saved to {output_file}")
+    _logger.info(f" Converted file saved to {output_file}")
