@@ -5,7 +5,7 @@ import os
 from datetime import datetime
 
 import pandas as pd
-from fastapi import FastAPI, File, UploadFile, HTTPException, Body
+from fastapi import Body, FastAPI, File, HTTPException, UploadFile
 
 # configure basic logging
 logging.basicConfig(level=logging.DEBUG)
@@ -45,7 +45,7 @@ def convert_sk_to_wp(sk_csv: pd.DataFrame, wp_csv: pd.DataFrame) -> pd.DataFrame
 
     # Auto-increment IDs starting from the initial value
     initial_id = 20000
-    sk_csv['ID'] = range(initial_id, initial_id + len(sk_csv))
+    sk_csv["ID"] = range(initial_id, initial_id + len(sk_csv))
 
     _logger.info(f" Assigned IDs: {sk_csv['ID'].tolist()}")  # This logs the id column to check the values
 
@@ -55,11 +55,8 @@ def convert_sk_to_wp(sk_csv: pd.DataFrame, wp_csv: pd.DataFrame) -> pd.DataFrame
             sk_csv[col] = wp_defaults[col]
 
     # Reorder the columns to match the wp_csv structure and ensure 'ID' is replaced as the first column
-    wp_columns = ['ID'] + [col for col in wp_csv.columns if col != 'ID']
+    wp_columns = ["ID"] + [col for col in wp_csv.columns if col != "ID"]
     return sk_csv[wp_columns]
-
-
-
 
 
 def convert_wp_to_sk(wp_csv: pd.DataFrame, sk_csv: pd.DataFrame) -> pd.DataFrame:
@@ -150,7 +147,7 @@ if __name__ == "__main__":
     test_cmd = False  # False means test via IDE, True means command line with args
     direction = SK_TO_WP
     input_file = SK_REFERENCE_FILE if direction == SK_TO_WP else WP_REFERENCE_FILE
-    current_date = datetime.now().isoformat(timespec='seconds').replace(":", ".") # Windows compatible name
+    current_date = datetime.now().isoformat(timespec="seconds").replace(":", ".")  # Windows compatible name
     output_file = os.path.join(BASE_DIR, "..", "outputs", f"output_{direction}_{current_date}.csv")
 
     if test_cmd:
